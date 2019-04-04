@@ -1,7 +1,7 @@
 html,
 body {
     height: 100%;
-    margin: 0
+    margin: 0;
 }
 
 .container {
@@ -11,14 +11,14 @@ body {
     background-color: #008463;
     color: #e6ffff;
     overflow: hidden;
-    text-align: center
+    text-align: center;
 }
 
 .container h1 {
     font-family: Arial, sans-serif;
     font-size: 30px;
     color: #ddcc56;
-    margin-top: 80px
+    margin-top: 80px;
 }
 
 .container form {
@@ -44,5 +44,6 @@ body {
 }
 
 .container p {
+    font-size: 20px;
     margin: 100px;
 }
